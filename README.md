@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Princekumar562
 - 👀 I’m interested in Coding and New Technology.
 - 🌱 I’m currently learning Full Stack Webdeveloping.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me ...
 
 <!---
